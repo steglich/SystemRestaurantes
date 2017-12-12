@@ -1,0 +1,5 @@
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.SharedKernel\bin\Debug\SystemRestaurantes.SharedKernel.dll
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.SharedKernel\bin\Debug\SystemRestaurantes.SharedKernel.pdb
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.SharedKernel\obj\Debug\SystemRestaurantes.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.SharedKernel\obj\Debug\SystemRestaurantes.SharedKernel.dll
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.SharedKernel\obj\Debug\SystemRestaurantes.SharedKernel.pdb

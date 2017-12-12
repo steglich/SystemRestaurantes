@@ -1,0 +1,8 @@
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Domain\bin\Debug\SystemRestaurantes.Domain.dll
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Domain\bin\Debug\SystemRestaurantes.Domain.pdb
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Domain\bin\Debug\SystemRestaurantes.SharedKernel.dll
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Domain\bin\Debug\SystemRestaurantes.SharedKernel.pdb
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Domain\obj\Debug\SystemRestaurantes.Domain.csprojResolveAssemblyReference.cache
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Domain\obj\Debug\SystemRestaurantes.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Domain\obj\Debug\SystemRestaurantes.Domain.dll
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Domain\obj\Debug\SystemRestaurantes.Domain.pdb

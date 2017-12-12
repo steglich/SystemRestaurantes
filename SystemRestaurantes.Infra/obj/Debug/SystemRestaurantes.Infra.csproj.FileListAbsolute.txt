@@ -1,0 +1,15 @@
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\bin\Debug\SystemRestaurantes.Infra.dll.config
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\bin\Debug\SystemRestaurantes.Infra.dll
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\bin\Debug\SystemRestaurantes.Infra.pdb
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\bin\Debug\EntityFramework.dll
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\bin\Debug\SystemRestaurantes.Domain.dll
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\bin\Debug\SystemRestaurantes.SharedKernel.dll
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\bin\Debug\SystemRestaurantes.Domain.pdb
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\bin\Debug\EntityFramework.xml
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\bin\Debug\SystemRestaurantes.SharedKernel.pdb
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\obj\Debug\SystemRestaurantes.Infra.csprojResolveAssemblyReference.cache
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\obj\Debug\SystemRestaurantes.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\obj\Debug\SystemRestaurantes.Infra.dll
+C:\Projetos\SystemRestaurantes\SystemRestaurantes.Infra\obj\Debug\SystemRestaurantes.Infra.pdb
