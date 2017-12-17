@@ -1,21 +1,21 @@
-﻿namespace SystemRestaurantes.Domain.Commands.RetauranteCommand
+﻿namespace SystemRestaurantes.Domain.Commands.RestauranteCommand
 {
-    public class UpdateRestauranteCommand
+    public class RegisterRestauranteCommand
     {
-        public UpdateRestauranteCommand(int restauranteId, string nome, string bairro, string rua, int numero)
+        public RegisterRestauranteCommand(string nome, string bairro, string rua, int numero, int usuarioId)
         {
-            this.RestauranteId = restauranteId;
             this.Nome = nome;
             this.Bairro = bairro;
             this.Rua = rua;
             this.Numero = numero;
+            this.UsuarioId = usuarioId;
         }
-
-        public int RestauranteId { get; set; }
 
         public string Nome { get; private set; }
         public string Bairro { get; private set; }
         public string Rua { get; private set; }
         public int Numero { get; private set; }
+        public int UsuarioId { get; set; }
+
     }
 }

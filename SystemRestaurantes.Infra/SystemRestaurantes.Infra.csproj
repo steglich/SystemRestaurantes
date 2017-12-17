@@ -47,12 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Presistence\DataContexts\DataContext.cs" />
-    <Compile Include="Presistence\IUnitOfWork.cs" />
-    <Compile Include="Presistence\Map\PratoMap.cs" />
-    <Compile Include="Presistence\Map\RestauranteMap.cs" />
-    <Compile Include="Presistence\Map\UsuarioMap.cs" />
-    <Compile Include="Presistence\UnitOfWork.cs" />
+    <Compile Include="Persistence\DataContexts\DataContext.cs" />
+    <Compile Include="Persistence\IUnitOfWork.cs" />
+    <Compile Include="Persistence\Map\PratoMap.cs" />
+    <Compile Include="Persistence\Map\RestauranteMap.cs" />
+    <Compile Include="Persistence\Map\UsuarioMap.cs" />
+    <Compile Include="Persistence\UnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\PratoRepository.cs" />
     <Compile Include="Repositories\RestauranteRepository.cs" />

@@ -43,9 +43,9 @@
     <Compile Include="Commands\PratoCommand\DeletePratoCommand.cs" />
     <Compile Include="Commands\PratoCommand\RegisterPratoCommand.cs" />
     <Compile Include="Commands\PratoCommand\UpdatePratoCommand.cs" />
-    <Compile Include="Commands\RetauranteCommand\DeleteRestauranteCommand.cs" />
-    <Compile Include="Commands\RetauranteCommand\RegisterRestauranteCommand.cs" />
-    <Compile Include="Commands\RetauranteCommand\UpdateRestauranteCommand.cs" />
+    <Compile Include="Commands\RestauranteCommand\DeleteRestauranteCommand.cs" />
+    <Compile Include="Commands\RestauranteCommand\RegisterRestauranteCommand.cs" />
+    <Compile Include="Commands\RestauranteCommand\UpdateRestauranteCommand.cs" />
     <Compile Include="Commands\UsuarioCommand\DeleteUsuarioCommand.cs" />
     <Compile Include="Commands\UsuarioCommand\RegisterUsuarioCommand.cs" />
     <Compile Include="Commands\UsuarioCommand\UpdateUsuarioCommand.cs" />

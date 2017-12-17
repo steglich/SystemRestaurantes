@@ -1,8 +1,8 @@
 ﻿using System.Data.Entity;
 using SystemRestaurantes.Domain.Entities;
-using SystemRestaurantes.Infra.Presistence.Map;
+using SystemRestaurantes.Infra.Persistence.Map;
 
-namespace SystemRestaurantes.Infra.Presistence.DataContexts
+namespace SystemRestaurantes.Infra.Persistence.DataContexts
 {
     public class DataContext : DbContext
     {

@@ -1,7 +1,7 @@
 ﻿using System.Data.Entity.ModelConfiguration;
 using SystemRestaurantes.Domain.Entities;
 
-namespace SystemRestaurantes.Infra.Presistence.Map
+namespace SystemRestaurantes.Infra.Persistence.Map
 {
     public class RestauranteMap : EntityTypeConfiguration<Restaurante>
     {

@@ -1,4 +1,4 @@
-﻿using SystemRestaurantes.Infra.Presistence;
+﻿using SystemRestaurantes.Infra.Persistence;
 using SystemRestaurantes.SharedKernel;
 using SystemRestaurantes.SharedKernel.Events;
 

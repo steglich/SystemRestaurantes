@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using SystemRestaurantes.Domain.Commands.RetauranteCommand;
+using SystemRestaurantes.Domain.Commands.RestauranteCommand;
 using SystemRestaurantes.Domain.Entities;
 using SystemRestaurantes.Domain.Repositories;
 using SystemRestaurantes.Domain.Services;
-using SystemRestaurantes.Infra.Presistence;
+using SystemRestaurantes.Infra.Persistence;
 using SystemRestaurantes.SharedKernel;
 using SystemRestaurantes.SharedKernel.Events;
 

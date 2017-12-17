@@ -2,8 +2,8 @@
 using SystemRestaurantes.ApplicationService;
 using SystemRestaurantes.Domain.Repositories;
 using SystemRestaurantes.Domain.Services;
-using SystemRestaurantes.Infra.Presistence;
-using SystemRestaurantes.Infra.Presistence.DataContexts;
+using SystemRestaurantes.Infra.Persistence;
+using SystemRestaurantes.Infra.Persistence.DataContexts;
 using SystemRestaurantes.Infra.Repositories;
 using SystemRestaurantes.SharedKernel;
 using SystemRestaurantes.SharedKernel.Events;

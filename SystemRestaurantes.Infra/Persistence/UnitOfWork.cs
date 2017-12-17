@@ -1,6 +1,6 @@
-﻿using SystemRestaurantes.Infra.Presistence.DataContexts;
+﻿using SystemRestaurantes.Infra.Persistence.DataContexts;
 
-namespace SystemRestaurantes.Infra.Presistence
+namespace SystemRestaurantes.Infra.Persistence
 {
     public sealed class UnitOfWork : IUnitOfWork
     {

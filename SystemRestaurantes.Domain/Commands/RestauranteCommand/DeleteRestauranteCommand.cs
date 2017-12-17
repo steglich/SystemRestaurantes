@@ -1,4 +1,4 @@
-﻿namespace SystemRestaurantes.Domain.Commands.RetauranteCommand
+﻿namespace SystemRestaurantes.Domain.Commands.RestauranteCommand
 {
     public class DeleteRestauranteCommand
     {

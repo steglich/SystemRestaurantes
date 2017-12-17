@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using SystemRestaurantes.Domain.Commands.RetauranteCommand;
+using SystemRestaurantes.Domain.Commands.RestauranteCommand;
 using SystemRestaurantes.Domain.Entities;
 
 namespace SystemRestaurantes.Domain.Services

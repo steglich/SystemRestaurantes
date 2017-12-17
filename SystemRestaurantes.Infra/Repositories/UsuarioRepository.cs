@@ -4,7 +4,7 @@ using System.Linq;
 using SystemRestaurantes.Domain.Entities;
 using SystemRestaurantes.Domain.Repositories;
 using SystemRestaurantes.Domain.Specs;
-using SystemRestaurantes.Infra.Presistence.DataContexts;
+using SystemRestaurantes.Infra.Persistence.DataContexts;
 
 namespace SystemRestaurantes.Infra.Repositories
 {

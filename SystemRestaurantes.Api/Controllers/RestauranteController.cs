@@ -2,7 +2,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
-using SystemRestaurantes.Domain.Commands.RetauranteCommand;
+using SystemRestaurantes.Domain.Commands.RestauranteCommand;
 using SystemRestaurantes.Domain.Services;
 
 namespace SystemRestaurantes.Api.Controllers
@@ -149,13 +149,13 @@ namespace SystemRestaurantes.Api.Controllers
         }
 
         [HttpDelete]
-        [Route("api/restaurante/deleta/")]
-        public Task<HttpResponseMessage> deleteEmail([FromBody]dynamic body) // Deleta o restaurante
+        [Route("api/restaurante/deleta/{nome}")]
+        public Task<HttpResponseMessage> deleteEmail(string nome) // Deleta o restaurante
         {
             var response = new HttpResponseMessage();
             try
             {
-                var command = new DeleteRestauranteCommand((string)body.nome);
+                var command = new DeleteRestauranteCommand(nome);
 
                 var restaurante = _service.Delete(command);
 

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SystemRestaurantes.Infra.Presistence
+namespace SystemRestaurantes.Infra.Persistence
 {
     public interface IUnitOfWork : IDisposable
     {
